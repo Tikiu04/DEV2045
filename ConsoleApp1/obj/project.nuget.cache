@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWKhpyVefSLl/TFF5Pp7ApzCmEiDHFQeRukQPm2SEiahTIL65q28OcblBhrgFN25fktZOK9ec/489FIEGuSYRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PROIST05\\Desktop\\Visual\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PROIST05\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\PROIST05\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\PROIST05\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
