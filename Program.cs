@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Day1
 {
-    internal class Program
+    internal class Lab0201
     {
         static void Main(string[] args)
         {
